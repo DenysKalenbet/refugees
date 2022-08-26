@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937383500177",
+    "project_id": "refugees-a1a44",
+    "storage_bucket": "refugees-a1a44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937383500177:android:0898341a7d4584cc82a230",
+        "android_client_info": {
+          "package_name": "com.denys.refugees.refugees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937383500177-pc99qvbbrgb9kvugebac6os60p021l3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLYIkr1Yf270YaemHlVft0epY7qO58f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937383500177-pc99qvbbrgb9kvugebac6os60p021l3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
